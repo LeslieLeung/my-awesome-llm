@@ -82,7 +82,7 @@ const config = {
             position: "right",
           },
           {
-            href: "https://github.com/LeslieLeung/my-awesome-llm-list",
+            href: "https://github.com/LeslieLeung/my-awesome-llm",
             label: "GitHub",
             position: "right",
           },
@@ -108,6 +108,20 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+
+  plugins: [
+    [
+      "@dipakparmar/docusaurus-plugin-umami",
+      /** @type {import('@dipakparmar/docusaurus-plugin-umami').Options} */
+      ({
+        websiteID: "801a2987-1746-417c-a4df-f7acb591150d", // Required
+        analyticsDomain: "umami.ameow.xyz", // Required
+        scriptName: "script.js", // Optional
+        dataAutoTrack: true, // Optional
+        dataCache: true, // Optional
+      }),
+    ],
+  ],
 }
 
 module.exports = config
