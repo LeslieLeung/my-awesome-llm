@@ -1,4 +1,5 @@
 ---
+sidebar_position: 6
 title: 我的 LLM 项目
 ---
 
