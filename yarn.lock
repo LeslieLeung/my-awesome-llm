@@ -2120,7 +2120,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@docusaurus/plugin-sitemap@npm:2.4.1":
+"@docusaurus/plugin-sitemap@npm:2.4.1, @docusaurus/plugin-sitemap@npm:^2.4.1":
   version: 2.4.1
   resolution: "@docusaurus/plugin-sitemap@npm:2.4.1"
   dependencies:
@@ -7613,6 +7613,7 @@ __metadata:
     "@dipakparmar/docusaurus-plugin-umami": ^2.0.6
     "@docusaurus/core": 2.4.1
     "@docusaurus/module-type-aliases": 2.4.1
+    "@docusaurus/plugin-sitemap": ^2.4.1
     "@docusaurus/preset-classic": 2.4.1
     "@mdx-js/react": ^1.6.22
     clsx: ^1.2.1

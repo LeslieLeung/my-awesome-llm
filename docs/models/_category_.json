@@ -6,7 +6,7 @@
     "className": "red",
     "link": {
       "type": "generated-index",
-      "title": "模型"
+      "title": "models"
     },
     "customProps": {
       "description": "This description can be used in the swizzled DocCard"

@@ -1,12 +1,12 @@
 {
-    "position": 5,
-    "label": "资源",
+    "position": 4,
+    "label": "集成",
     "collapsible": true,
     "collapsed": false,
     "className": "red",
     "link": {
       "type": "generated-index",
-      "title": "resources"
+      "title": "integration"
     },
     "customProps": {
       "description": "This description can be used in the swizzled DocCard"

@@ -54,6 +54,10 @@ const config = {
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
+        sitemap: {
+          changefreq: "daily",
+          priority: 0.5,
+        },
       }),
     ],
   ],
@@ -62,9 +66,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
+      metadata: [{ name: "keywords", content: "LLM, ChatGPT" }],
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "My Site",
+        title: "My Awesome LLM",
         logo: {
           alt: "My Site Logo",
           src: "img/logo.svg",
