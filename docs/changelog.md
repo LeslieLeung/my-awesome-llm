@@ -3,6 +3,12 @@ title: 更新日志
 sidebar_position: 2
 ---
 
+## 2023-05-23
+
+- 增加 Cursor 和 GitHub Copilot Chat
+- 增加基于通用模型微调的模型
+- 增加一个 LangChain 的 Awesome
+
 ## 2023-05-22
 
 - 增加向量存储相关

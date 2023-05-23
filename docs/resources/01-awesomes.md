@@ -48,6 +48,12 @@ title: Awesomes
 
 [![PlexPt/awesome-chatgpt-prompts-zh - GitHub](https://gh-card.dev/repos/PlexPt/awesome-chatgpt-prompts-zh.svg?fullname=)](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 
+## LangChain
+
+### [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain)
+
+[![kyrolabs/awesome-langchain - GitHub](https://gh-card.dev/repos/kyrolabs/awesome-langchain.svg)](https://github.com/kyrolabs/awesome-langchain)
+
 ## 杂项
 
 ### [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt)
