@@ -2,7 +2,7 @@
 title: 模型一览
 ---
 
-> 更新时间：2023-05-21
+> 更新时间：2023-05-23
 
 列举了一些当前比较热门的模型，因篇幅有限，仅考虑对标 GPT 3.5 及以上能力的模型。
 
@@ -14,7 +14,7 @@ title: 模型一览
 | [Bard](https://bard.google.com/)                                              | Google        | ✅       | ✅    |     | ✅       | ✅         |         |                 |
 | [文心一言](https://yiyan.baidu.com/)                                          | 百度          | ✅       | ✅    |     |          | ✅         | 作图    |                 |
 | [通义千问](https://tongyi.aliyun.com/)                                          | 阿里巴巴      |          | ✅    |     |          |            |         |                 |
-| Bing Chat                                         | 微软          | ✅       | ✅[1] |     |          | ✅         | 作图[3] |                 |
+| Bing Chat                                         | 微软          | ✅       | ✅[1] |     |  ✅        | ✅         | 作图[3] |                 |
 | [Spark](https://xinghuo.xfyun.cn/)                                             | 讯飞          |          |       | ✅  |          |            |         |                 |
 | [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) | 清华          | ✅       |       |     |          |            |         | ✅              |
 | [GLM-130B](https://github.com/THUDM/GLM-130B)     | 清华          |          |       |     |          |            |         |                 |

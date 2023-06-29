@@ -6,7 +6,8 @@
     "className": "red",
     "link": {
       "type": "generated-index",
-      "title": "integration"
+      "title": "集成",
+      "slug": "integrations"
     },
     "customProps": {
       "description": "This description can be used in the swizzled DocCard"

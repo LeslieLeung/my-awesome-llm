@@ -1,13 +1,13 @@
 {
-    "position": 3,
-    "label": "模型",
+    "position": 5,
+    "label": "话题",
     "collapsible": true,
     "collapsed": false,
     "className": "red",
     "link": {
       "type": "generated-index",
-      "title": "模型",
-      "slug": "models"
+      "title": "话题",
+      "slug": "topics"
     },
     "customProps": {
       "description": "This description can be used in the swizzled DocCard"

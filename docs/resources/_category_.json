@@ -6,7 +6,8 @@
     "className": "red",
     "link": {
       "type": "generated-index",
-      "title": "resources"
+      "title": "资源",
+      "slug": "resources"
     },
     "customProps": {
       "description": "This description can be used in the swizzled DocCard"
